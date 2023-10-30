@@ -1,3 +1,4 @@
+// Deprecated: use github.com/katzenpost/katzenpost instead.
 module github.com/katzenpost/ping
 
 go 1.13
